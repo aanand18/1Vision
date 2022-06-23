@@ -2,6 +2,8 @@ from tkinter import CASCADE
 from django.db import models
 from django.contrib.auth.models import User
 from django.db.models.deletion import CASCADE
+
+
 class Room(models.Model):
     host = models.ForeignKey(User, on_delete = models.SET_NULL, null = True)
     topic = models.ForeignKey('Topic', on_delete = models.SET_NULL, null = True)
