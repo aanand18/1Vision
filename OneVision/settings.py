@@ -129,7 +129,7 @@ STATICFILES_DIRS = [
 ]
 
 MEDIA_ROOT = BASE_DIR / 'static/images'
-#in production use AWS
+#its different while production use AWS
 # STATIC_ROOT = 
 
 # Default primary key field type
