@@ -9,6 +9,10 @@ A Web Application for users to share information and discuss on a particular top
 * Users can view their or other's profile.
 
 
+
+https://user-images.githubusercontent.com/50799286/176783872-55265abc-e773-49fc-a1b0-3fb4ac83b34a.mp4
+
+
 ### Running the project
 
 --> Clone the repository using the command below :
